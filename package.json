@@ -1,0 +1,31 @@
+{
+  "name": "siwi-generate-rsa",
+  "version": "1.0.0",
+  "description": "生成rsa 公钥私钥",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwilizhao/siwi-generate-rsa.git"
+  },
+  "keywords": [
+    "rsa",
+    "siwi-rsa",
+    "siwi-generate-rsa",
+    "siwilizhao"
+  ],
+  "author": "siwi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwilizhao/siwi-generate-rsa/issues"
+  },
+  "homepage": "https://github.com/siwilizhao/siwi-generate-rsa#readme",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
